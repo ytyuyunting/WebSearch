@@ -10,7 +10,7 @@ The project is to create a webpage that allows you to search for weather based o
 ## Install
     Mac OS:
     
-    install node.js: brew install node
+    install node.js: `brew install node`
     
     install express: npm install express-generator -g
     
