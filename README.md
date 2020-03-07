@@ -14,26 +14,26 @@ Mac OS:
     
 install node.js: `brew install node`
     
-install express: npm install express-generator -g
+install express: `npm install express-generator -g`
     
-    install dependency: npm install
+install dependency: `npm install`
 
-    install nightwatch: npm install nightwatch -g
-                        npm install geckodriver --save-dev
-                        npm install chromedriver --save-dev
-                        npm install selenium-server --save-dev
+install nightwatch: `npm install nightwatch -g`
+                    `npm install geckodriver --save-dev`
+                    `npm install chromedriver --save-dev`
+                    `npm install selenium-server --save-dev`
 
 
 ## Usage
-    Open two terminals:
+Open two terminals:
 
-    First one : enter the project and start: npm start
+First one : enter the project and start: `npm start`
     
-    (You can use "http://www.localhost:3000/" to see the webpage)
+(You can use "http://www.localhost:3000/" to see the webpage)
 
-    Second one: use Nightwatch to test : nightwatch weatherSearch.js
+Second one: use Nightwatch to test : `nightwatch weatherSearch.js`
     
-    (keep the server open)
+(keep the server open)
 
 
 ## License
