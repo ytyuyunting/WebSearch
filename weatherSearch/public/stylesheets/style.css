@@ -1,0 +1,152 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: antiquewhite;
+}
+
+a {
+  color: #00B7FF;
+}
+#form{
+  width:850px;
+  margin: 15px auto;
+  background-color: #508CA5;
+  border:solid black 1px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px black;
+  color: white;
+}
+
+button{
+  border:solid 1px;
+}
+
+.btn{
+  background-color: white;
+}
+.btn:hover{
+  color:initial;
+  text-decoration: none;
+}
+
+#searchTitle{
+  margin:50px auto 30px auto;
+}
+
+.input{
+  border:solid 1px;
+}
+
+.col-form-label{
+  padding-left: 90px;
+}
+
+#p4{
+  padding-left: 90px;
+}
+
+#checkbox0{
+  border: 0px;
+}
+#p5{
+  padding-left: 90px;
+}
+#search{
+  margin:10px;
+}
+#clear{
+  margin:10px;
+}
+
+div#result {
+  width: auto;
+  height: 40px;
+  border-color:#A19FA1 ;
+  border-width: 0px;
+  text-align: center;
+  margin: 40px auto;
+  color: red;
+  font-size: 20px;
+}
+div#card{
+  background-color: #30CDF6;
+
+  width: 450px;
+  height: 300px;
+  margin: 60px auto;
+  position: relative;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px black;
+}
+#card ul{
+  list-style-type:none;
+  margin-top: 6px;
+  line-height: 32px;
+}
+#card ul li:nth-child(1){
+  font-size: 28px;
+  font-weight: bold;
+  margin-left: -15px;
+  margin-bottom:  -5px;
+  margin-top: 20px;
+}
+#card ul li:nth-child(3){
+  font-size: 18px;
+  margin-left: -15px;
+  margin-bottom:  -17px;
+  margin-top: -25px;
+}
+#card ul li:nth-child(5){
+  margin-left: -15px;
+  margin-bottom: -20px;
+  margin-top: 5px;
+  font-weight: bold;
+}
+#card ul li:nth-child(5) img{
+  vertical-align:top;
+  width: 13px;
+  height: 13px;
+  margin-left: 0px;
+  margin-top: -10px;
+}
+#card ul li:nth-child(5) p{
+  font-size: 50px;
+  display: inline;
+}
+#card ul li:nth-child(7){
+  font-size:28px;
+  font-weight: bold;
+  margin-left: -15px;
+  margin-bottom:  -18px;
+}
+img{
+  width: 25px;
+  height: 25px;
+}
+#card table{
+  position: absolute;
+  margin-left: 5px;
+  margin-top: 223px;
+}
+#card table td{
+  width: 65px;
+  text-align: center;
+  font-weight: bold;
+}
+div#result_table{
+  margin: 60px auto;
+  color:white;
+  width: auto;
+}
+table.result_table{
+  border: solid #319FC8 2px;
+  border-collapse: collapse;
+  margin: auto auto;
+  background-color: #97CAF0;
+  width: 900px;
+}
+table.result_table th, .result_table td{
+  border: solid #319FC8 2px;
+  text-align: center;
+  font-weight: bold;
+}
