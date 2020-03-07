@@ -1,18 +1,20 @@
 # WebSearch
+
 The project is to create a webpage that allows you to search for weather based on your location.
 
 ## Title
-    The project is to create a webpage that allows you to search for weather based on your location.
     
-    Information: using the Google Geocode and forecast.io API, and the results will be displayed in card and table.
+The project is to create a webpage that allows you to search for weather based on your location.
+    
+Information: using the Google Geocode and forecast.io API, and the results will be displayed in card and table.
     
 
 ## Install
-    Mac OS:
+Mac OS:
     
-    install node.js: `brew install node`
+install node.js: `brew install node`
     
-    install express: npm install express-generator -g
+install express: npm install express-generator -g
     
     install dependency: npm install
 
