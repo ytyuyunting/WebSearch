@@ -10,7 +10,7 @@ Information: using the Google Geocode and forecast.io API, and the results will 
     
 
 ## Install
-Mac OS:
+*Mac OS:*
     
 install node.js: `brew install node`
     
@@ -25,13 +25,13 @@ install nightwatch: `npm install nightwatch -g`
 
 
 ## Usage
-Open two terminals:
+*Open two terminals:*
 
-First one : enter the project and start: `npm start`
+*First one *: enter the project and start: `npm start`
     
 (You can use "http://www.localhost:3000/" to see the webpage)
 
-Second one: use Nightwatch to test : `nightwatch weatherSearch.js`
+*Second one*: use Nightwatch to test : `nightwatch weatherSearch.js`
     
 (keep the server open)
 
